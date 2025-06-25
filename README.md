@@ -54,7 +54,7 @@ A simple and attractive Text-to-Speech (TTS) desktop application built with Pyth
 ## ▶️ Usage
 
 ```bash
-python app.py
+python Text-To-Speech.py
 ```
 
 1. Enter the text in the input area.
